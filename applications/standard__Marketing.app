@@ -14,6 +14,7 @@
     <tabs>standard-Opportunity</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
+    <tabs>Getting_Started</tabs>
     <tabs>Project__c</tabs>
     <tabs>Invoice__c</tabs>
 </CustomApplication>

@@ -7,6 +7,7 @@
     <label>Sample App: Shopping List</label>
     <tabs>standard-Chatter</tabs>
     <tabs>Item__c</tabs>
+    <tabs>Getting_Started</tabs>
     <tabs>Project__c</tabs>
     <tabs>Invoice__c</tabs>
 </CustomApplication>
