@@ -154,6 +154,16 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <fields>
+        <fullName>Price__c</fullName>
+        <externalId>false</externalId>
+        <label>Price</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
         <fullName>Type__c</fullName>
         <externalId>false</externalId>
         <label>Type</label>
@@ -178,6 +188,11 @@
                     <fullName>Road</fullName>
                     <default>false</default>
                     <label>Road</label>
+                </value>
+                <value>
+                    <fullName>Frog</fullName>
+                    <default>false</default>
+                    <label>Frog</label>
                 </value>
             </valueSetDefinition>
         </valueSet>
